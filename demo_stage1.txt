@@ -1,0 +1,10 @@
+Демонстрация Этапа 1
+После запуска вводить по одной команде:
+ls
+ls test.txt folder
+cd /home
+ls $USERROFILE
+Нажать Enter на пустой строке
+hello
+exit test
+exit
