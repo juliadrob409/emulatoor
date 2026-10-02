@@ -32,7 +32,7 @@ def test_environment_variable():
 
 def test_unknown_command():
     result = execute_command("unknown", [])
-    assert result is True
+    assert result is False
 
 
 def test_exit():
